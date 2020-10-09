@@ -1,0 +1,5 @@
+.config.js
+.credentials.js
+*.env
+node_modules
+logs.txt
